@@ -41,10 +41,10 @@ I write practical, example-first tutorials on [vinish.dev](https://vinish.dev) (
 <a href="https://github.com/devvinish/oracle-forms-book-code">Code</a> · <a href="https://vinish.dev/oracle-forms-14c-book">Book page</a>
 </td>
 <td align="center" width="33%" valign="top">
-<a href="https://github.com/devvinish/oracle-ai-book-code"><img src="assets/ai-applications-oracle-26ai-apex.jpg" width="140" alt="AI Applications with Oracle Database 26ai and APEX 26.1 by Vinish Kapoor"></a><br>
+<a href="https://www.amazon.com/dp/B0HLXFCF1G"><img src="assets/ai-applications-oracle-26ai-apex.jpg" width="140" alt="AI Applications with Oracle Database 26ai and APEX 26.1 by Vinish Kapoor"></a><br>
 <b>AI Applications with Oracle Database 26ai and APEX 26.1</b><br>
-<sub>Vector search, RAG and AI agents · New</sub><br>
-<i>Coming to Amazon soon</i><br>
+<sub>409 pages · vector search, RAG and AI agents</sub><br>
+<a href="https://www.amazon.com/dp/B0HLXFCF1G">Paperback</a> · <a href="https://www.amazon.com/dp/B0HLXN2BD4">Kindle</a><br>
 <a href="https://github.com/devvinish/oracle-ai-book-code">Code</a>
 </td>
 </tr>
