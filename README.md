@@ -45,7 +45,7 @@ I write practical, example-first tutorials on [vinish.dev](https://vinish.dev) (
 <b>AI Applications with Oracle Database 26ai and APEX 26.1</b><br>
 <sub>409 pages · vector search, RAG and AI agents</sub><br>
 <a href="https://www.amazon.com/dp/B0HLXFCF1G">Paperback</a> · <a href="https://www.amazon.com/dp/B0HLXN2BD4">Kindle</a><br>
-<a href="https://github.com/devvinish/oracle-ai-book-code">Code</a>
+<a href="https://github.com/devvinish/oracle-ai-book-code">Code</a> · <a href="https://vinish.dev/oracle-ai-applications-book">Book page</a>
 </td>
 </tr>
 </table>
